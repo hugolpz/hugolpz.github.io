@@ -1,7 +1,7 @@
 ---
 # multilingual page pair id, this must pair with translations of this page. (This name must be unique)
 lng_pair: id_Examples
-title: Long example
+title: DU Analist 2022
 
 # post specific
 # if not specified, .name will be used from _data/owner/[language].yml
@@ -41,6 +41,7 @@ date: 2022-02-10 08:11:06 +0900
 Teaching to 20 students how to master github.
 
 ## Curriculum
+
 | Class | Title | Objective 
 | --- | --- | ---
 | 1 | Cartography of Github | Understant issue, code, codespace.
@@ -66,6 +67,7 @@ Edit content:
 
 
 To go futher
+
 | Class | Title | Objective
 | --- | --- | ---
 | 5 | Github via VS Code | Edit, commit, push/pull
