@@ -114,7 +114,7 @@ This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-Jek
 
 ### Picture
 
-![such a lovely place](:profil_pic.jpg)
+![such a lovely place](:Lopez_Hugo-avatar-2018-128px.png)
 
 ### Picture (centered)
 
