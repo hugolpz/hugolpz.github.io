@@ -114,7 +114,7 @@ This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-Jek
 
 ### Picture
 
-![such a lovely place](:post_pic1.jpg)
+![such a lovely place](:profil_pic.jpg)
 
 ### Picture (centered)
 
