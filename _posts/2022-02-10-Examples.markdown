@@ -46,120 +46,43 @@ This is an example page to display markdown related styles for Mr. Green Jekyll 
 ### Headings (centered)
 {:data-align="center"}
 
-# Heading 1
+# Teaching Github to CYU Datanalist DU
+Teaching to 20 students how to master github.
 
-## Heading 2
+## Curriculum
+| Class | Title | Objective 
+| --- | --- | ---
+| 1 | Cartography of Github | Understant issue, code, codespace.
+| 2 | Create your profile | Create repository, edit online
+| 3 | Manage a repository | Manage repository: fork, settings, collaborators, issues, milestones, labels.
+| 4 | Create a porfolio with Jekyll | Customize your Jekyll porfolio
 
-### Heading 3
+> "The best github course we attended !" - Matthieu Cisel
 
-#### Heading 4
+## Customize Porfolio
 
-##### Heading 5
+Change brand :
+- `_data/owner/en.yml` > brand, name, contact (github, email)
+- `assets/img/default/profile_pic.jpg` : replace.
+- `assets/img/home/home-heading.jpg` : replace.
+- `_data/conf/main.yml` > side_nav_profile_image_path: change path.
 
-###### Heading 6
+Edit content:
+- Examine content : tabs, posts, archives, 
+- Hide posts
+- Edit post with HTML
+- See further.
 
-***
 
-### Paragraphs
+To go futher
+| Class | Title | Objective
+| --- | --- | ---
+| 5 | Github via VS Code | Edit, commit, push/pull
+| 6 | Local git use | Clone/pull, edit, commit, push.
 
-#### Paragraph
+## Resources
+- [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 
-**William Shakespeare**, Let me not to the marriage of true minds
-Admit impediments. Love is not love
-Which alters when it alteration finds,
-Or bends with the remover to remove.
-O no, it is an ever-fixed mark
-That looks on tempests and is never shaken;
-It is the star to every wand'ring barque,
-Whose worth's unknown, although his height be taken.
-Love's not Time's fool, though rosy lips and cheeks
-Within his bending sickle's compass come;
-Love alters not with his brief hours and weeks,
-But bears it out even to the edge of doom.
-If this be error and upon me proved,
-I never writ, nor no man ever loved.
-
-#### Texts
-
-Quoted text `Hello world`
-
-Bold text **Hello world**
-
-Italic text _Hello world_
-
-kbd text <kbd>Hello world</kbd>
-
-#### Blockquote
-
-> **William Shakespeare The great**, Let me not to the marriage of true minds
-> Admit impediments. Love is not love
-> Which alters when it alteration finds,
-> Or bends with the remover to remove.
-> O no, it is an ever-fixed mark
-> That looks on tempests and is never shaken;
-> It is the star to every wand'ring barque,
-> Whose worth's unknown, although his height be taken.
-> Love's not Time's fool, though rosy lips and cheeks
-> Within his bending sickle's compass come;
-> Love alters not with his brief hours and weeks,
-> But bears it out even to the edge of doom.
-> If this be error and upon me proved,
-> I never writ, nor no man ever loved.
-
-### Link
-
-This is [Mr. Green Jekyll Theme](https://github.com/MrGreensWorkshop/MrGreen-JekyllTheme), a simple theme built for [Jekyll](https://jekyllrb.com/).
-
-\* Hello world! This is **[{{ site.data.owner[site.data.conf.main.default_lng].brand }}]({{ site.url }})**
-
-### Picture
-
-![such a lovely place](:Lopez_Hugo-avatar-2018-128px.png)
-
-### Picture (centered)
-
-![such a lovely place](:post_pic1.jpg){:data-align="center"}
-
-### Lists
-
-- Apple
-- Banana
-- Orange
-
-1. Fruits
-   1. Apples
-      - Granny Smith
-      - Mutsu
-   1. Bananas
-      - Cavendish
-      - Red
-1. Vegetables
-
-***
-
-### Tables
-
-#### Small Table (centered)
-
-| Fruits(not aligned) | Alignment (centered) | num (right align) |
-| ------------------- | :------------------: | ----------------: |
-| Apple               |       centered       |              9999 |
-| Banana              |  centered long text  |               999 |
-| Orange              |       centered       |                99 |
-| Lemon               |       centered       |                 9 |
-{:data-align="center"}
-
-#### Wide Table (centered)
-
-scroll enabled when page is narrow
-
-| Fruits | num (left align) | num (right align) | num  | num  | num  |
-| ------ | :--------------- | ----------------: | ---- | ---- | ---- |
-| Apple  | 1111             |              1111 | 2222 | 3333 | 4444 |
-| Banana | 111              |               111 | 222  | 333  | 444  |
-| Orange | 11               |                11 | 22   | 33   | 44   |
-| Lemon  | 1                |                 1 | 2    | 3    | 4    |
-{:data-align="center"}
 
 #### Wider Table
 
