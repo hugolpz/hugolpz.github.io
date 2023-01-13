@@ -1,12 +1,12 @@
 lng:
-  name: English
+  name: French
   # based on ISO_639-1 https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes
-  code: en
+  code: fr
   # specifically needed for open-graph meta og:locale. if open_graph or html_lng_with_country_code not enabled in _data/conf/main.yml, it's not necessary.
   # For html tags, you can enable or disable using html_lng_with_country_code defined in _data/conf/main.yml
   # based on ISO_3166-1 https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2
-  country: US
-  switch_title: En
+  country: FR
+  switch_title: Fr
   offer:
     title: Language
     msg_page: View this page in English.
@@ -15,7 +15,7 @@ lng:
 
 date:
   # if %b is used in the long format, it will be replaced with the corresponding item in 'months' list below.
-  long: "%b %-d, %Y"
+  long: "%Y年%m月%d日"
   day: "%d"
   year: "%Y"
   # months itself also used in Archive page.
