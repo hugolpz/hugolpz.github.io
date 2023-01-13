@@ -77,7 +77,8 @@ Devoir UE n°5 - Notebook Jupyter par Ru WANG. Septembre 28, 2022 : Réduction d
 <audio controls src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Zh-Tianjin.ogg"></audio>
 <audio controls src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zh-Beijing.ogg"></audio>
 
-<h3 style="width:100%; padding: 12px; background-color: #B10000;color:white;border-bottom: 2px solid orange;">Bilan</h3>
+<h3 style="padding: 12px; background-color: #B10000;color:white;border-bottom: 4px solid purple;margin-bottom:0;">💡 Bilan</h3>
+<div style="background: #FFAA0099;border-bottom-left-radius:1em;border-bottom-right-radius:1em;padding:12px;">
 Vous pouvez donc creer des posts de blogs et y integrer :
 
 - une structure propre, hierarchisee
@@ -86,4 +87,4 @@ Vous pouvez donc creer des posts de blogs et y integrer :
 - integrer des images de vos travaux : dataviz, cartes, etc.
 - integrer des iframes de vos ipynb (si un service externe le permet!)
 
-Lorsque vous creez un post, bien respecter la convention de nommage, sinon le fichier peut ne pas etre reconnu.
+Lorsque vous creez un post, bien respecter la convention de nommage, sinon le fichier peut ne pas etre reconnu.</div>
