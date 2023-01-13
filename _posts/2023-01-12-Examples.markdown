@@ -121,15 +121,11 @@ for i in range(5, 10):
 
 <h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Edit your posts ! !</h3>
 
-<div style="margin:2em;">
 <ul>
 <li>ENGLISH: Open: `_post/{Post}.markdown` > add markdown or HTML.</li>
 <li>FRENCH: Open: `fr/_post/{Post}.markdown` > add markdown or HTML.</li>
 <li>JAPANESE: Open: `ja/_post/{Post}.markdown` > add markdown or HTML.</li>
-<li></li>
 </ul>
-
-</div>
 
 <h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Autres html</h3>
 
