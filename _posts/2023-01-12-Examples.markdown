@@ -112,6 +112,8 @@ for i in range(5, 10):
   print(i)
 ```
 
+-----
+
 <h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Change your languages !</h3>
 
 - FRENCH: Open: `_data/lang/{iso}.yml` > edit.</li>
@@ -129,8 +131,12 @@ for i in range(5, 10):
 
 </div>
 
-### Autres html
+<h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Autres html</h3>
+
+#### Élément multimédia
 
 <audio controls src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Zh-Tianjin.ogg"></audio>
 <audio controls src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zh-Beijing.ogg"></audio>
 
+#### Vue d'une page externe
+<iframe src="https://fr.wikipedia.org" style="border:none; height:200px; width:300px;" title="Iframe Example"></iframe>
