@@ -111,3 +111,26 @@ for i in range(5, 10):
 for i in range(5, 10):
   print(i)
 ```
+
+<h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Change your languages !</h3>
+
+- FRENCH: Open: `_data/lang/{iso}.yml` > edit.</li>
+- FRENCH: Open: `_data/ownder/{iso}.yml` > edit.</li>
+
+<h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Edit your posts ! !</h3>
+
+<div style="margin:2em;">
+<ul>
+<li>ENGLISH: Open: `_post/{Post}.markdown` > add markdown or HTML.</li>
+<li>FRENCH: Open: `fr/_post/{Post}.markdown` > add markdown or HTML.</li>
+<li>JAPANESE: Open: `ja/_post/{Post}.markdown` > add markdown or HTML.</li>
+<li></li>
+</ul>
+
+</div>
+
+### Autres html
+
+<audio controls src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Zh-Tianjin.ogg"></audio>
+<audio controls src="https://upload.wikimedia.org/wikipedia/commons/8/8a/Zh-Beijing.ogg"></audio>
+
