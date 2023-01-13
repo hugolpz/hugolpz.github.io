@@ -151,3 +151,31 @@ for i in range(5, 10):
 <iframe src="https://fr.wikipedia.org" style="border:none; height:1000px; width:100%;" title="Iframe Example"></iframe>
 
 <iframe src="https://colab.research.google.com/drive/1YA0-YXVm568JJXbwwwjuHjOAmS9alfRn?usp=share_link"></iframe>
+
+
+
+
+
+
+
+
+
+
+<h3 style="width:100%; padding: 12px; background-color: purple;color:white;">Réduction de dimensionnalité (Ru Wang)</h3>
+
+#### Description du projet
+Devoir UE n°5 - Notebook Jupyter par Ru WANG. Septembre 28, 2022 : Réduction de dimensionnalité.
+
+#### Images du projet
+[<img src="https://hugolpz.github.io/assets/img/posts/WangRu.png" style="width:100%;" />](https://github.com/wr0124/2022DU_dimensionality-reduction/blob/main/projet1.ipynb)
+
+#### Liens
+- [Liens vers le Python Notebook]([url)](https://github.com/wr0124/2022DU_dimensionality-reduction/blob/main/projet1.ip)ynb)
+
+
+
+
+
+
+
+
