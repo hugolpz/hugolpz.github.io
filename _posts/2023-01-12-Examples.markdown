@@ -170,7 +170,7 @@ Devoir UE n°5 - Notebook Jupyter par Ru WANG. Septembre 28, 2022 : Réduction d
 [<img src="https://hugolpz.github.io/assets/img/posts/WangRu.png" style="width:100%;" />](https://github.com/wr0124/2022DU_dimensionality-reduction/blob/main/projet1.ipynb)
 
 #### Liens
-- [Liens vers le Python Notebook]([url)](https://github.com/wr0124/2022DU_dimensionality-reduction/blob/main/projet1.ip)ynb)
+- [Liens vers le Python Notebook](https://github.com/wr0124/2022DU_dimensionality-reduction/blob/main/projet1.ipynb)
 
 
 
